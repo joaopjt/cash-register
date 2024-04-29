@@ -10,9 +10,9 @@ Whats the size of it? 3x5;
     - Albert Einstein
 
 * Horizontal Lanes
-    - 1th
-    - 2th
-    - 3th
-    - 4th
-    - 5th
-    - 6th
+    - 1th St.
+    - 2th St.
+    - 3th St.
+    - 4th St.
+    - 5th St.
+    - 6th St.
