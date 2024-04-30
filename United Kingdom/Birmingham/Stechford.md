@@ -5,12 +5,12 @@ Accountant of succeed actions.
 Grid: 5x2
 
 * Vertical Lanes
-    - Aprilstraße
-    - Maistraße
-    - Junistraße
-    - Julistraße
-    - Auguststraße
+    - April St.
+    - May St.
+    - June St.
+    - July St.
+    - August St.
 
 * Horizontal Lanes
-    - Metallstraße
-    - Gasestraße
+    - Metal St.
+    - Gases St.
