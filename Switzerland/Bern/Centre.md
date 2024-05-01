@@ -5,14 +5,14 @@ Tie handler.
 Grid: 4x5
 
 * Vertical Lanes
-    - A St.
-    - B St.
-    - C St.
-    - D St.
+    - Buchstabe A Straße
+    - Buchstabe B Straße
+    - Buchstabe C Straße
+    - Buchstabe D Straße
 
 * Horizontal Lanes
-    - First St.
-    - Second St.
-    - Third St.
-    - Fourth St.
-    - Fifth St.
+    - Erste Straße
+    - Zweite Straße
+    - Dritte Straße
+    - Vierte Straße
+    - Fünfte Straße
