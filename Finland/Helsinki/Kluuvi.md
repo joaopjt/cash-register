@@ -5,11 +5,11 @@ Here we take how the subject should be treated as an public matter.
 Grid: 2x4
 
 * Vertical Lanes
-    - Alaska St.
-    - Havaiji St.
+    - Alaska katu
+    - Havaiji katu
 
 * Horizontal Lanes
-    - Numero yksi St.
-    - Numero kaksi St.
-    - Numero kolme St.
-    - Numero neljä St.
+    - Numero yksi katu
+    - Numero kaksi katu
+    - Numero kolme katu
+    - Numero neljä katu

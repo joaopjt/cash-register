@@ -5,12 +5,12 @@ Here we take care of the communication on the political timetable.
 Grid: 3x4
 
 * Vertical Lanes
-    - Punainen valo St.
-    - Keltainen valo St.
-    - Vihreä valo St.
+    - Punainen valo katu
+    - Keltainen valo katu
+    - Vihreä valo katu
 
 * Horizontal Lanes
-    - Amazon St.
-    - Kanjoni St.
-    - Everest St.
-    - Fuji Vuori St.
+    - Amazon katu
+    - Kanjoni katu
+    - Everest katu
+    - Fuji Vuori katu
