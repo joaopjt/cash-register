@@ -5,10 +5,10 @@ What are the natural moves happening? What is out of the clock that started to h
 Grid: 3x2
 
 * Vertical Lanes
-    - Patriarca
-    - Carrão
+    - Patriarch
+    - Big Car
     - Mooca
 
 * Horizontal Lanes
-    - Lápiz Azul
-    - Lápiz Lilás
+    - Blue Pencil
+    - Lilac Pencil
