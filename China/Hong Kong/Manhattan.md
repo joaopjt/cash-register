@@ -1,6 +1,6 @@
 # Manhattan (Hong Kong)
 
-The 5th dimension will always be the one, because of the fire. We should get a block out of it.
+The 6th dimension will always be the one, because of the fire. We should get a block out of it.
 
 Ok, so, how many streets, the format of it.
 
